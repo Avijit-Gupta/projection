@@ -252,6 +252,7 @@ button{
 
     .elements{
         width: 100%;
+        margin-top: 2rem;
     }
     .left{
         width: 100%;
